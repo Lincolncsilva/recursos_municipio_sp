@@ -1,7 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-credenciais.py[cod]
+*.py[cod]
 
+# credencial
+credenciais.py
 # C extensions
 *.so
 
